@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          안녕하쇼 ㅋㅋ 반갑소잉?ㅋㅋ 버그없슈?없네유
         </a>
       </header>
     </div>
